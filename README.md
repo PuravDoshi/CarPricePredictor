@@ -1,1 +1,1 @@
-# CarPricePredictor
+Predicting the price of the car using Linear Regression
